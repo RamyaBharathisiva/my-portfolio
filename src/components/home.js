@@ -1,5 +1,5 @@
 import React from "react";
-import "../Styles/home.css";
+// import "../Styles/home.css";
 
 
 const Home=()=>{
@@ -22,5 +22,5 @@ const Home=()=>{
 
 
 
-export default home;
+export default Home;
 
