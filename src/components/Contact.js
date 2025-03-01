@@ -6,7 +6,7 @@ const Contact=()=>{
         <section id="contact" className="contact">
             <h2>Contact Me</h2>
             <p>Email:ramyabharathi.242002@gmail.com</p> 
-            <p>LinkedIn: <a href="" target="_blank">Profile</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/ramyabharathi-s" target="_blank" rel="noopener noreferrer">Profile</a></p>
         </section>
     );
 };

@@ -9,7 +9,7 @@ const Projects=()=>{
             <div className="project-card">
                 <h3>E-Garments Portal</h3>
                 <p>A platform for customized garment ordering.</p>
-                <a href=" " target="_blank">GitHub Link</a>
+                <a href="https://github.com/RamyaBharathisiva/project" target="_blank" rel="noopener noreferrer">GitHub Link</a>
             </div>
         </section>
     );
